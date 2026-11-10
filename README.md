@@ -9,6 +9,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-5AA9FF?style=for-the-badge&logo=firebase&logoColor=white)
 ![Maps](https://img.shields.io/badge/Maps_and_GPS-4CC76A?style=for-the-badge&labelColor=0D1A2E&color=4CC76A)
 
+<br/>
+
+<a href="https://play.google.com/store/apps/details?id=com.bgtollspeed"><img src="https://img.shields.io/badge/GET_IT_ON-Google_Play-5AA9FF?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=000000" alt="Google_Play"/></a> <a href="https://izstudio.web.app/en/apps/bgtoll/"><img src="https://img.shields.io/badge/LEARN_MORE-Website-5AA9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Website"/></a>
+
+
 **Warns Bulgarian drivers about average-speed sections and tells them how fast they can go.**
 
 </div>
