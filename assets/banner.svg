@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="BG Toll Speed">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1A2E"/>
+      <stop offset="1" stop-color="#14284a"/>
+    </linearGradient>
+    <style>
+      .t{font-family:'Segoe UI',Roboto,Arial,sans-serif}
+      .car{animation:d 5s linear infinite}
+      @keyframes d{0%{transform:translateX(0)}100%{transform:translateX(520px)}}
+      .g{animation:p 2.5s ease-in-out infinite}
+      @keyframes p{50%{opacity:.45}}
+    </style>
+  </defs>
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <g stroke="#5AA9FF" stroke-opacity="0.08"><path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/></g>
+  <path d="M620 270 Q 760 270 820 190 T 1160 110" fill="none" stroke="#1d3558" stroke-width="46" stroke-linecap="round"/>
+  <path d="M620 270 Q 760 270 820 190 T 1160 110" fill="none" stroke="#EEF3FB" stroke-opacity="0.5" stroke-width="3" stroke-dasharray="16 14"/>
+  <g class="g"><rect x="700" y="236" width="8" height="72" rx="3" fill="#4CC76A" transform="rotate(-8 704 272)"/></g>
+  <g class="g"><rect x="1062" y="68" width="8" height="72" rx="3" fill="#F39222" transform="rotate(-18 1066 104)"/></g>
+  <g class="car"><circle cx="640" cy="270" r="9" fill="#5AA9FF"/><circle cx="640" cy="270" r="16" fill="none" stroke="#5AA9FF" stroke-opacity="0.5"/></g>
+  <rect x="860" y="120" width="190" height="46" rx="23" fill="#0d1a2e" stroke="#4CC76A" stroke-width="2"/>
+  <text x="955" y="151" text-anchor="middle" class="t" font-size="22" font-weight="700" fill="#4CC76A">avg 128 · max 140</text>
+  <text x="70" y="150" class="t" font-size="92" font-weight="800" fill="#EEF3FB">BG Toll Speed</text>
+  <text x="70" y="208" class="t" font-size="32" fill="#5AA9FF">Average-speed section control, in your pocket.</text>
+  <text x="70" y="268" class="t" font-size="22" fill="#7D90AE">virtual gates  ·  voice alerts  ·  speed bubble  ·  works with the screen off</text>
+</svg>
